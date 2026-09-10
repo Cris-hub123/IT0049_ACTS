@@ -21,4 +21,4 @@ A four-page CodeIgniter 4 application created for IT0049 TFA1.
 
 Add the hosted URL here.
 
-[http://it0049-postfa1-cadag.freehosting.dev](https://it0049-postfa1-cadag.freehosting.dev/)
+https://it0049-postfa1-cadag.freehosting.dev/
